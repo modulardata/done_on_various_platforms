@@ -1,4 +1,7 @@
-html, body {
+/* https: //www.codecademy.com/learn/learn-css-flexbox-and-grid/modules/layout-with-flexbox/cheatsheet */
+
+html,
+body {
   margin: 0;
   padding: 0;
   font-family: 'Libre Baskerville', sans-serif;
@@ -30,7 +33,7 @@ h1 {
 }
 
 .main {
-    background-color: #ffc200;
+  background-color: #ffc200;
 }
 
 /*Header Section*/
@@ -48,8 +51,8 @@ h1 {
 
 .header li a {
   color: #333;
-  margin:0;
-  border:0px;
+  margin: 0;
+  border: 0px;
 }
 
 /*Jumbotron Section*/
@@ -66,7 +69,7 @@ h1 {
 }
 
 .jumbotron h2 span {
-  color:#ffc200;
+  color: #ffc200;
 }
 
 .jumbotron p {
@@ -118,7 +121,7 @@ h1 {
 }
 
 .footer p {
-  font-size:12px;
+  font-size: 12px;
   margin-bottom: 0;
   margin-left: 20px;
 }
